@@ -10,7 +10,7 @@ function amount($n)
             $result++;
         }
     }
-    echo 'Количество цирф, меньших 5: ' . $result;
+    echo 'Количество цифр, меньших 5: ' . $result;
 }
 
 amount(123456700);
